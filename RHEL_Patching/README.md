@@ -35,3 +35,25 @@ Perform cross-subscription patching.
 
 Build custom reporting dashboards through Azure Workbooks to monitor the update compliance of your infrastructure.
 These features make Update Manager a powerful tool for maintaining the security and performance of your IT infrastructure.
+
+
+**Key benefits**
+Here are some of the benefits of Update Manager:
+
+**Provides native experience with zero onboarding:**
+
+Built as native functionality on Azure VMs and Azure Arc-enabled servers for ease of use.
+No dependency on Log Analytics and Azure Automation.
+Azure Policy support.
+Available in most Azure VMs and Azure Arc regions.
+
+**Works with Azure roles and identity:**
+
+Granular access control at per-resource level instead of access control at the level of the Azure Automation account and Log Analytics workspace.
+Azure Resource Manager-based operations. Update Manager allows role-based access control and roles based on Resource Manager in Azure.
+Enhanced flexibility:
+Take immediate action by either installing updates immediately or scheduling them for a later date.
+Check updates automatically or on demand.
+Secure machines with new ways of patching, such as automatic VM guest patching in Azure, hotpatching, or custom maintenance schedules.
+Sync patch cycles in relation to patch Tuesday, the unofficial term for Microsoft's scheduled release of security fixes on the second Tuesday of each month.
+
